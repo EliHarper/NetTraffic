@@ -1,0 +1,220 @@
+COMMAND     PID      USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+loginwind    97 eliharper    7u  IPv4 0xecfed405c5086fa5      0t0  UDP *:*
+UserEvent   241 eliharper    3u  IPv4 0xecfed405c4884e65      0t0  UDP *:*
+identitys   249 eliharper   19u  IPv4 0xecfed405c48879e5      0t0  UDP *:*
+SystemUIS   257 eliharper   12u  IPv4 0xecfed405c45ef16d      0t0  UDP *:*
+SystemUIS   257 eliharper   13u  IPv4 0xecfed405c45f1fa5      0t0  UDP *:*
+SystemUIS   257 eliharper   14u  IPv4 0xecfed405c45f225d      0t0  UDP *:65255
+SystemUIS   257 eliharper   15u  IPv4 0xecfed405c45f2515      0t0  UDP *:*
+SystemUIS   257 eliharper   18u  IPv4 0xecfed405c5084425      0t0  UDP *:*
+sharingd    291 eliharper    4u  IPv4 0xecfed405c508311d      0t0  UDP *:*
+sharingd    291 eliharper    8u  IPv4 0xecfed405c45f0c9d      0t0  UDP *:*
+sharingd    291 eliharper    9u  IPv4 0xecfed405c45f0f55      0t0  UDP *:*
+sharingd    291 eliharper   10u  IPv4 0xecfed405c45f0475      0t0  UDP *:*
+sharingd    291 eliharper   11u  IPv4 0xecfed405c45f27cd      0t0  UDP *:*
+WiFiProxy   321 eliharper    5u  IPv4 0xecfed405c45f14c5      0t0  UDP *:*
+WiFiAgent   403 eliharper    6u  IPv4 0xecfed405c4637e65      0t0  UDP *:*
+assistant   417 eliharper    5u  IPv4 0xecfed405c45f09e5      0t0  UDP *:*
+CiscoVide   451 eliharper   15u  IPv4 0xecfed405cd8677e5      0t0  TCP localhost:9015 (LISTEN)
+CiscoVide   451 eliharper   19u  IPv4 0xecfed405cd868165      0t0  TCP localhost:9005 (LISTEN)
+ruby        491 eliharper   10u  IPv4 0xecfed405cdf054e5      0t0  TCP localhost:31743 (LISTEN)
+ruby        491 eliharper   11u  IPv4 0xecfed405ce68b7e5      0t0  TCP localhost:31743->localhost:49277 (ESTABLISHED)
+ruby        491 eliharper   12u  IPv4 0xecfed405cde9dae5      0t0  TCP localhost:49543->localhost:31749 (CLOSE_WAIT)
+ruby        491 eliharper   53u  IPv4 0xecfed405cdf07ae5      0t0  TCP localhost:31742 (LISTEN)
+nwjs\x20H   534 eliharper   29u  IPv4 0xecfed405ce68c165      0t0  TCP localhost:49277->localhost:31743 (ESTABLISHED)
+nwjs\x20H   534 eliharper   30u  IPv4 0xecfed405ce68ae65      0t0  TCP localhost:49279->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   31u  IPv4 0xecfed405ce6d37e5      0t0  TCP localhost:49280->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   32u  IPv4 0xecfed405ce6d24e5      0t0  TCP localhost:49281->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   33u  IPv4 0xecfed405ce6d4ae5      0t0  TCP localhost:49282->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   34u  IPv4 0xecfed405ce6d7165      0t0  TCP localhost:49283->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   35u  IPv4 0xecfed405ce6d67e5      0t0  TCP localhost:49284->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   36u  IPv4 0xecfed405ce6d7ae5      0t0  TCP localhost:49285->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   37u  IPv4 0xecfed405ce6da165      0t0  TCP localhost:49286->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   38u  IPv4 0xecfed405ce441ae5      0t0  TCP localhost:49288->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   39u  IPv4 0xecfed405cd8664e5      0t0  TCP localhost:49444->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   40u  IPv4 0xecfed405cde9c7e5      0t0  TCP localhost:49445->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   41u  IPv4 0xecfed405cd36b7e5      0t0  TCP localhost:49472->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   42u  IPv4 0xecfed405cdfc8ae5      0t0  TCP localhost:49473->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   43u  IPv4 0xecfed405cd36c165      0t0  TCP localhost:49512->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   44u  IPv4 0xecfed405ce76a7e5      0t0  TCP localhost:49513->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   45u  IPv4 0xecfed405cdfc77e5      0t0  TCP localhost:49516->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   46u  IPv4 0xecfed405cdcbb165      0t0  TCP localhost:49541->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   47u  IPv4 0xecfed405c58a37e5      0t0  TCP localhost:49589->localhost:31742 (CLOSED)
+Google    32382 eliharper   25u  IPv4 0xecfed40COMMAND     PID      USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+loginwind    97 eliharper    7u  IPv4 0xecfed405c5086fa5      0t0  UDP *:*
+UserEvent   241 eliharper    3u  IPv4 0xecfed405c4884e65      0t0  UDP *:*
+identitys   249 eliharper   19u  IPv4 0xecfed405c48879e5      0t0  UDP *:*
+SystemUIS   257 eliharper   12u  IPv4 0xecfed405c45ef16d      0t0  UDP *:*
+SystemUIS   257 eliharper   13u  IPv4 0xecfed405c45f1fa5      0t0  UDP *:*
+SystemUIS   257 eliharper   14u  IPv4 0xecfed405c45f225d      0t0  UDP *:65255
+SystemUIS   257 eliharper   15u  IPv4 0xecfed405c45f2515      0t0  UDP *:*
+SystemUIS   257 eliharper   18u  IPv4 0xecfed405c5084425      0t0  UDP *:*
+sharingd    291 eliharper    4u  IPv4 0xecfed405c508311d      0t0  UDP *:*
+sharingd    291 eliharper    8u  IPv4 0xecfed405c45f0c9d      0t0  UDP *:*
+sharingd    291 eliharper    9u  IPv4 0xecfed405c45f0f55      0t0  UDP *:*
+sharingd    291 eliharper   10u  IPv4 0xecfed405c45f0475      0t0  UDP *:*
+sharingd    291 eliharper   11u  IPv4 0xecfed405c45f27cd      0t0  UDP *:*
+WiFiProxy   321 eliharper    5u  IPv4 0xecfed405c45f14c5      0t0  UDP *:*
+WiFiAgent   403 eliharper    6u  IPv4 0xecfed405c4637e65      0t0  UDP *:*
+assistant   417 eliharper    5u  IPv4 0xecfed405c45f09e5      0t0  UDP *:*
+CiscoVide   451 eliharper   15u  IPv4 0xecfed405cd8677e5      0t0  TCP localhost:9015 (LISTEN)
+CiscoVide   451 eliharper   19u  IPv4 0xecfed405cd868165      0t0  TCP localhost:9005 (LISTEN)
+ruby        491 eliharper   10u  IPv4 0xecfed405cdf054e5      0t0  TCP localhost:31743 (LISTEN)
+ruby        491 eliharper   11u  IPv4 0xecfed405ce68b7e5      0t0  TCP localhost:31743->localhost:49277 (ESTABLISHED)
+ruby        491 eliharper   12u  IPv4 0xecfed405cde9dae5      0t0  TCP localhost:49543->localhost:31749 (CLOSE_WAIT)
+ruby        491 eliharper   53u  IPv4 0xecfed405cdf07ae5      0t0  TCP localhost:31742 (LISTEN)
+nwjs\x20H   534 eliharper   29u  IPv4 0xecfed405ce68c165      0t0  TCP localhost:49277->localhost:31743 (ESTABLISHED)
+nwjs\x20H   534 eliharper   30u  IPv4 0xecfed405ce68ae65      0t0  TCP localhost:49279->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   31u  IPv4 0xecfed405ce6d37e5      0t0  TCP localhost:49280->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   32u  IPv4 0xecfed405ce6d24e5      0t0  TCP localhost:49281->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   33u  IPv4 0xecfed405ce6d4ae5      0t0  TCP localhost:49282->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   34u  IPv4 0xecfed405ce6d7165      0t0  TCP localhost:49283->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   35u  IPv4 0xecfed405ce6d67e5      0t0  TCP localhost:49284->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   36u  IPv4 0xecfed405ce6d7ae5      0t0  TCP localhost:49285->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   37u  IPv4 0xecfed405ce6da165      0t0  TCP localhost:49286->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   38u  IPv4 0xecfed405ce441ae5      0t0  TCP localhost:49288->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   39u  IPv4 0xecfed405cd8664e5      0t0  TCP localhost:49444->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   40u  IPv4 0xecfed405cde9c7e5      0t0  TCP localhost:49445->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   41u  IPv4 0xecfed405cd36b7e5      0t0  TCP localhost:49472->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   42u  IPv4 0xecfed405cdfc8ae5      0t0  TCP localhost:49473->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   43u  IPv4 0xecfed405cd36c165      0t0  TCP localhost:49512->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   44u  IPv4 0xecfed405ce76a7e5      0t0  TCP localhost:49513->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   45u  IPv4 0xecfed405cdfc77e5      0t0  TCP localhost:49516->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   46u  IPv4 0xecfed405cdcbb165      0t0  TCP localhost:49541->localhost:31742 (CLOSED)
+nwjs\x20H   534 eliharper   47u  IPv4 0xecfed405c58a37e5      0t0  TCP localhost:49589->localhost:31742 (CLOSED)
+Google    32382 eliharper   25u  IPv4 0xecfed405cd36cae5      0t0  TCP 192.168.1.109:49942->qk-in-f188.1e100.net:5228 (ESTABLISHED)
+Google    32382 eliharper   69u  IPv4 0xecfed405c2c0177d      0t0  UDP 224.0.0.251:mdns
+Google    32382 eliharper   88u  IPv4 0xecfed405c2bff425      0t0  UDP 192.168.1.109:50108->iad23s44-in-f14.1e100.net:https
+Google    32382 eliharper  125u  IPv4 0xecfed405c2cd04e5      0t0  TCP 192.168.1.109:50309->iad23s42-in-f101.1e100.net:https (ESTABLISHED)
+Google    32382 eliharper  130u  IPv4 0xecfed405c48871bd      0t0  UDP 192.168.1.109:61635->iad30s21-in-f3.1e100.net:https
+Google    32382 eliharper  149u  IPv4 0xecfed405cdf05e65      0t0  TCP 192.168.1.109:50056->192.168.1.149:8009 (ESTABLISHED)
+Google    32382 eliharper  162u  IPv4 0xecfed405ce6d8e65      0t0  TCP 192.168.1.109:50141->lb-192-30-253-124-iad.github.com:https (ESTABLISHED)
+Google    32382 eliharper  180u  IPv4 0xecfed405c508881d      0t0  UDP 192.168.1.109:58147->172.217.197.189:https
+Google    32382 eliharper  196u  IPv4 0xecfed405c5086a35      0t0  UDP 192.168.1.109:55628->qj-in-f189.1e100.net:https
+Google    32382 eliharper  203u  IPv4 0xecfed405c8dd44c5      0t0  UDP 192.168.1.109:53513->iad23s41-in-f74.1e100.net:https
+Google    32382 eliharper  260u  IPv4 0xecfed405d542cae5      0t0  TCP 192.168.1.109:49362->192.168.1.149:8009 (CLOSED)
+balenaEtc 52080 eliharper   82u  IPv4 0xecfed405cd866e65      0t0  TCP 192.168.1.109:50256->ec2-34-206-129-228.compute-1.amazonaws.com:https (ESTABLISHED)
+COMMAND     PID      USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+loginwind    97 eliharper    7u  IPv4 0x2e321f29a6306f0f      0t0  UDP *:*
+UserEvent   238 eliharper    3u  IPv4 0x2e321f29a63079ef      0t0  UDP *:*
+SystemUIS   251 eliharper   12u  IPv4 0x2e321f29ac738a3f      0t0  UDP *:*
+SystemUIS   251 eliharper   13u  IPv4 0x2e321f29ac738cf7      0t0  UDP *:*
+SystemUIS   251 eliharper   14u  IPv4 0x2e321f29ac738faf      0t0  UDP *:59719
+SystemUIS   251 eliharper   15u  IPv4 0x2e321f29ac739267      0t0  UDP *:*
+SystemUIS   251 eliharper   17u  IPv4 0x2e321f29a7db8d47      0t0  UDP *:*
+identitys   277 eliharper   19u  IPv4 0x2e321f29ad777b2f      0t0  UDP *:*
+sharingd    296 eliharper    4u  IPv4 0x2e321f29ac73951f      0t0  UDP *:*
+sharingd    296 eliharper    8u  IPv4 0x2e321f29ac739a8f      0t0  UDP *:*
+sharingd    296 eliharper    9u  IPv4 0x2e321f29ac739fff      0t0  UDP *:*
+sharingd    296 eliharper   10u  IPv4 0x2e321f29ac73747f      0t0  UDP *:*
+sharingd    296 eliharper   11u  IPv4 0x2e321f29adb356e7      0t0  UDP *:*
+WiFiProxy   339 eliharper    5u  IPv4 0x2e321f29a87f4de7      0t0  UDP *:*
+WiFiAgent   396 eliharper    5u  IPv4 0x2e321f29a7db6f5f      0t0  UDP *:*
+assistant   399 eliharper    8u  IPv4 0x2e321f29adb35f0f      0t0  UDP *:*
+CiscoVide   425 eliharper   16u  IPv4 0x2e321f29b02fd42f      0t0  TCP localhost:9015 (LISTEN)
+CiscoVide   425 eliharper   19u  IPv4 0x2e321f29b02fddaf      0t0  TCP localhost:9005 (LISTEN)
+ruby        460 eliharper   10u  IPv4 0x2e321f29b0dcbdaf      0t0  TCP localhost:31742 (LISTEN)
+ruby        460 eliharper   11u  IPv4 0x2e321f29b081b0af      0t0  TCP localhost:64812->localhost:31749 (CLOSE_WAIT)
+ruby        460 eliharper   12u  IPv4 0x2e321f29b0dcc72f      0t0  TCP localhost:31743 (LISTEN)
+ruby        460 eliharper   13u  IPv4 0x2e321f29b0dcaaaf      0t0  TCP localhost:31743->localhost:49246 (ESTABLISHED)
+nwjs\x20H   530 eliharper   29u  IPv4 0x2e321f29b0dcd0af      0t0  TCP localhost:49246->localhost:31743 (ESTABLISHED)
+nwjs\x20H   530 eliharper   30u  IPv4 0x2e321f29b0f5942f      0t0  TCP localhost:49247->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   31u  IPv4 0x2e321f29b0f59daf      0t0  TCP localhost:49248->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   32u  IPv4 0x2e321f29b0f5a72f      0t0  TCP localhost:49249->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   33u  IPv4 0x2e321f29b0f5cdaf      0t0  TCP localhost:49250->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   34u  IPv4 0x2e321f29b0f5e0af      0t0  TCP localhost:49251->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   35u  IPv4 0x2e321f29b0f5eaaf      0t0  TCP localhost:49252->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   36u  IPv4 0x2e321f29b0f5f42f      0t0  TCP localhost:49253->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   37u  IPv4 0x2e321f29b0a4f42f      0t0  TCP localhost:49256->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   38u  IPv4 0x2e321f29b0a5072f      0t0  TCP localhost:49257->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   39u  IPv4 0x2e321f29b1ce542f      0t0  TCP localhost:49279->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   40u  IPv4 0x2e321f29b1ce4aaf      0t0  TCP localhost:64120->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   41u  IPv4 0x2e321f29b0a4fdaf      0t0  TCP localhost:64121->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   42u  IPv4 0x2e321f29c2936daf      0t0  TCP localhost:64212->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   43u  IPv4 0x2e321f29b612742f      0t0  TCP localhost:64214->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   44u  IPv4 0x2e321f29c26e2daf      0t0  TCP localhost:64230->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   45u  IPv4 0x2e321f29b5a250af      0t0  TCP localhost:64231->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   46u  IPv4 0x2e321f29af3e1aaf      0t0  TCP localhost:64270->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   47u  IPv4 0x2e321f29b63a50af      0t0  TCP localhost:64271->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   48u  IPv4 0x2e321f29b5a22aaf      0t0  TCP localhost:64308->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   49u  IPv4 0x2e321f29ac1800af      0t0  TCP localhost:64309->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   50u  IPv4 0x2e321f29b63a472f      0t0  TCP localhost:64337->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   51u  IPv4 0x2e321f29ac17f72f      0t0  TCP localhost:64343->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   52u  IPv4 0x2e321f29b72abdaf      0t0  TCP localhost:64399->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   53u  IPv4 0x2e321f29b616142f      0t0  TCP localhost:64400->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   54u  IPv4 0x2e321f29b72aaaaf      0t0  TCP localhost:64578->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   55u  IPv4 0x2e321f29b2ff9daf      0t0  TCP localhost:64589->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   56u  IPv4 0x2e321f29b0f5d72f      0t0  TCP localhost:64640->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   57u  IPv4 0x2e321f29ba1f542f      0t0  TCP localhost:64641->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   58u  IPv4 0x2e321f29ba1f70af      0t0  TCP localhost:64731->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   59u  IPv4 0x2e321f29ba1f4aaf      0t0  TCP localhost:64732->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   60u  IPv4 0x2e321f29b020e0af      0t0  TCP localhost:64735->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   61u  IPv4 0x2e321f29b9c860af      0t0  TCP localhost:64736->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   62u  IPv4 0x2e321f29b9c8442f      0t0  TCP localhost:64739->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   63u  IPv4 0x2e321f29b72ad0af      0t0  TCP localhost:64771->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   64u  IPv4 0x2e321f29ba1f5daf      0t0  TCP localhost:64774->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   65u  IPv4 0x2e321f29b63a342f      0t0  TCP localhost:64795->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   66u  IPv4 0x2e321f29b96bd0af      0t0  TCP localhost:64798->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   67u  IPv4 0x2e321f29b72ab42f      0t0  TCP localhost:64799->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   68u  IPv4 0x2e321f29b6126aaf      0t0  TCP localhost:64810->localhost:31742 (CLOSED)
+nwjs\x20H   530 eliharper   69u  IPv4 0x2e321f29a699542f      0t0  TCP localhost:64813->localhost:31742 (CLOSED)
+Google      780 eliharper   21u  IPv4 0x2e321f29b0f5b0af      0t0  TCP 192.168.1.109:50738->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper   81u  IPv4 0x2e321f29b0f58aaf      0t0  TCP 192.168.1.109:50737->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper   87u  IPv4 0x2e321f29a7d4ff5f      0t0  UDP 224.0.0.251:mdns
+Google      780 eliharper  136u  IPv4 0x2e321f29b081a72f      0t0  TCP 192.168.1.109:51441->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  138u  IPv4 0x2e321f29af7960af      0t0  TCP 192.168.1.109:50735->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  145u  IPv4 0x2e321f29a80e651f      0t0  UDP 192.168.1.112:56914->iad23s44-in-f174.1e100.net:https
+Google      780 eliharper  146u  IPv4 0x2e321f29af3e372f      0t0  TCP 192.168.1.112:49377->192.168.1.131:8009 (CLOSED)
+Google      780 eliharper  152u  IPv4 0x2e321f29a87f1faf      0t0  UDP *:*
+Google      780 eliharper  153u  IPv4 0x2e321f29af79572f      0t0  TCP 192.168.1.109:50736->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  166u  IPv4 0x2e321f29b6161daf      0t0  TCP 192.168.1.112:57798->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  170u  IPv4 0x2e321f29b612872f      0t0  TCP 192.168.1.112:58344->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  171u  IPv4 0x2e321f29a87f3d97      0t0  UDP *:*
+Google      780 eliharper  173u  IPv4 0x2e321f29af3e40af      0t0  TCP 192.168.1.112:50749->iad23s41-in-f14.1e100.net:https (ESTABLISHED)
+Google      780 eliharper  176u  IPv4 0x2e321f29b11ec0af      0t0  TCP 192.168.1.112:64054->192.168.1.131:8009 (CLOSED)
+Google      780 eliharper  178u  IPv4 0x2e321f29a90800af      0t0  TCP 192.168.1.112:49869->172.217.197.188:https (ESTABLISHED)
+Google      780 eliharper  179u  IPv4 0x2e321f29b5a2472f      0t0  TCP 192.168.1.112:50747->lb-192-30-253-124-iad.github.com:https (ESTABLISHED)
+Google      780 eliharper  181u  IPv4 0x2e321f29b2ff8aaf      0t0  TCP 192.168.1.112:50748->151.101.249.140:https (ESTABLISHED)
+Google      780 eliharper  185u  IPv4 0x2e321f29b5a23daf      0t0  TCP 192.168.1.112:57330->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  189u  IPv4 0x2e321f29a7db56e7      0t0  UDP 192.168.1.112:64855->iad30s09-in-f10.1e100.net:https
+Google      780 eliharper  190u  IPv4 0x2e321f29b11e9aaf      0t0  TCP 192.168.1.112:49376->192.168.1.131:8009 (CLOSED)
+Google      780 eliharper  192u  IPv4 0x2e321f29ac17e42f      0t0  TCP 192.168.1.109:49370->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  193u  IPv4 0x2e321f29a80e3f0f      0t0  UDP 192.168.1.112:61302->iad30s09-in-f174.1e100.net:https
+Google      780 eliharper  194u  IPv4 0x2e321f29a7db61c7      0t0  UDP 192.168.1.112:58401->qn-in-f189.1e100.net:https
+Google      780 eliharper  197u  IPv4 0x2e321f29b2ff942f      0t0  TCP 192.168.1.112:55527->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  199u  IPv4 0x2e321f29b081942f      0t0  TCP 192.168.1.109:52494->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  201u  IPv4 0x2e321f29a80e5faf      0t0  UDP 192.168.1.112:50019->iad23s44-in-f174.1e100.net:https
+Google      780 eliharper  221u  IPv4 0x2e321f29a7db74cf      0t0  UDP 192.168.1.112:54080->172.217.197.189:https
+Google      780 eliharper  228u  IPv4 0x2e321f29b1ce70af      0t0  TCP 192.168.1.112:50725->151.101.200.133:https (ESTABLISHED)
+Google      780 eliharper  229u  IPv4 0x2e321f29b0f610af      0t0  TCP 192.168.1.109:51919->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  248u  IPv4 0x2e321f29ac17edaf      0t0  TCP 192.168.1.112:50318->192.168.1.131:8009 (CLOSED)
+Google      780 eliharper  256u  IPv4 0x2e321f29a80e3c57      0t0  UDP 192.168.1.112:49260->173.194.184.230:https
+Google      780 eliharper  278u  IPv4 0x2e321f29b11eb72f      0t0  TCP 192.168.1.112:49374->192.168.1.131:8009 (CLOSED)
+Google      780 eliharper  281u  IPv4 0x2e321f29b63a2aaf      0t0  TCP 192.168.1.112:50469->192.168.1.131:8009 (ESTABLISHED)
+Google      780 eliharper  284u  IPv4 0x2e321f29af793aaf      0t0  TCP 192.168.1.112:50726->151.101.200.133:https (ESTABLISHED)
+Google      780 eliharper  285u  IPv4 0x2e321f29b11eadaf      0t0  TCP 192.168.1.112:57699->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  287u  IPv4 0x2e321f29b6160aaf      0t0  TCP 192.168.1.112:49372->192.168.1.131:8009 (CLOSED)
+Google      780 eliharper  296u  IPv4 0x2e321f29b61290af      0t0  TCP 192.168.1.112:50745->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  304u  IPv4 0x2e321f29b2ffa72f      0t0  TCP 192.168.1.112:65481->192.168.1.131:8009 (CLOSED)
+Google      780 eliharper  319u  IPv4 0x2e321f29b0f6072f      0t0  TCP 192.168.1.112:50717->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  322u  IPv4 0x2e321f29b02fe72f      0t0  TCP 192.168.1.112:50729->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  324u  IPv4 0x2e321f29b43c20af      0t0  TCP 192.168.1.112:50716->185.199.109.154:https (ESTABLISHED)
+Google      780 eliharper  328u  IPv4 0x2e321f29b43bfaaf      0t0  TCP 192.168.1.112:50723->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  334u  IPv4 0x2e321f29a907e42f      0t0  TCP 192.168.1.112:50732->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  337u  IPv4 0x2e321f29b43c172f      0t0  TCP 192.168.1.112:50718->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  358u  IPv4 0x2e321f29b020d72f      0t0  TCP 192.168.1.109:51916->192.168.1.149:8009 (CLOSED)
+Google      780 eliharper  368u  IPv4 0x2e321f29c2935aaf      0t0  TCP 192.168.1.112:50735->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  369u  IPv4 0x2e321f29b0819daf      0t0  TCP 192.168.1.112:50731->151.101.248.133:https (ESTABLISHED)
+Google      780 eliharper  373u  IPv4 0x2e321f29a907daaf      0t0  TCP 192.168.1.112:50733->151.101.248.133:https (ESTABLISHED)
+Slack     10908 eliharper   50u  IPv4 0x2e321f29b1ce672f      0t0  TCP 192.168.1.112:49933->ec2-34-194-201-2.compute-1.amazonaws.com:https (ESTABLISHED)
+Slack     10908 eliharper   75u  IPv4 0x2e321f29b0dcb42f      0t0  TCP 192.168.1.112:49934->ec2-34-195-196-96.compute-1.amazonaws.com:https (ESTABLISHED)
+Slack     10908 eliharper   77u  IPv4 0x2e321f29b43c0daf      0t0  TCP 192.168.1.112:50684->server-99-84-214-165.iad79.r.cloudfront.net:https (CLOSED)
+Slack     10908 eliharper   87u  IPv4 0x2e321f29b6127daf      0t0  TCP 192.168.1.112:49932->ec2-34-195-196-96.compute-1.amazonaws.com:https (ESTABLISHED)
+Slack     10908 eliharper   88u  IPv4 0x2e321f29b72ac72f      0t0  TCP 192.168.1.112:49935->ec2-34-194-201-2.compute-1.amazonaws.com:https (ESTABLISHED)
+Slack     10908 eliharper   89u  IPv4 0x2e321f29b0f5c42f      0t0  TCP 192.168.1.112:49941->ec2-34-194-201-2.compute-1.amazonaws.com:https (ESTABLISHED)
+Sonos     28776 eliharper   26u  IPv4 0x2e321f29ba1f672f      0t0  TCP *:csms2 (LISTEN)
+Sonos     28776 eliharper   27u  IPv4 0x2e321f29ad77704f      0t0  UDP *:fjicl-tep-a
+Sonos     28776 eliharper   28u  IPv4 0x2e321f29ad777877      0t0  UDP *:ssdp
+Sonos     28776 eliharper   29u  IPv4 0x2e321f29ad777307      0t0  UDP *:acmsoda
+Sonos     28776 eliharper   40u  IPv4 0x2e321f29ad774cf7      0t0  UDP *:*
+ssh       28991 eliharper    3u  IPv4 0x2e321f29c29380af      0t0  TCP 192.168.1.112:50355->192.168.1.116:ssh (ESTABLISHED)

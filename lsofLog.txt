@@ -1,0 +1,63 @@
+xloginwind   98      501    8u  IPv4 0x8a8c8d473ea686bf      0t0      UDP *:*
+UserEvent  306      501    3u  IPv4 0x8a8c8d473ea6a1ef      0t0      UDP *:*
+cloudd     317      501   31u  IPv4 0x8a8c8d4739119da7      0t0      TCP 10.1.10.91:54066->17.248.134.174:443 (ESTABLISHED)
+identitys  324      501   19u  IPv4 0x8a8c8d473e9bb977      0t0      UDP *:*
+WiFiAgent  339      501    5u  IPv4 0x8a8c8d473e9bae97      0t0      UDP *:*
+sharingd   346      501    4u  IPv4 0x8a8c8d47494ef1ef      0t0      UDP *:*
+sharingd   346      501    8u  IPv4 0x8a8c8d47494ea887      0t0      UDP *:*
+sharingd   346      501    9u  IPv4 0x8a8c8d47494ea317      0t0      UDP *:*
+sharingd   346      501   10u  IPv4 0x8a8c8d47494ea05f      0t0      UDP *:*
+sharingd   346      501   11u  IPv4 0x8a8c8d4749613977      0t0      UDP *:*
+Google     740      501   84u  IPv4 0x8a8c8d4740089da7      0t0      TCP 10.1.10.91:49626->74.125.31.188:5228 (ESTABLISHED)
+Google     740      501  138u  IPv4 0x8a8c8d4739006427      0t0      TCP 10.1.10.91:53312->192.30.253.124:443 (ESTABLISHED)
+Google     740      501  144u  IPv4 0x8a8c8d474e10ca27      0t0      TCP 10.1.10.91:53060->108.177.12.189:443 (ESTABLISHED)
+Google     740      501  151u  IPv4 0x8a8c8d474ec2f0a7      0t0      TCP 10.1.10.91:54075->208.85.40.20:443 (ESTABLISHED)
+Google     740      501  173u  IPv4 0x8a8c8d473ae54427      0t0      TCP 10.1.10.91:54077->108.177.12.17:443 (ESTABLISHED)
+Google     740      501  185u  IPv4 0x8a8c8d4750ca4427      0t0      TCP 10.1.10.91:54079->108.177.12.94:443 (ESTABLISHED)
+Google     740      501  200u  IPv4 0x8a8c8d474fe7b0a7      0t0      TCP 10.1.10.91:54074->74.125.31.94:443 (ESTABLISHED)
+Google     740      501  201u  IPv4 0x8a8c8d473911ba27      0t0      TCP 10.1.10.91:53818->52.6.206.20:443 (ESTABLISHED)
+Google     740      501  211u  IPv4 0x8a8c8d474fb77727      0t0      TCP 10.1.10.91:54076->64.71.168.222:443 (ESTABLISHED)
+Google     740      501  271u  IPv4 0x8a8c8d474ef0e427      0t0      TCP 10.1.10.91:52883->204.194.75.47:443 (ESTABLISHED)
+Slack      743      501   64u  IPv4 0x8a8c8d474efcd427      0t0      TCP 10.1.10.91:49660->18.204.248.223:443 (ESTABLISHED)
+Slack      743      501   76u  IPv4 0x8a8c8d474ef0f727      0t0      TCP 10.1.10.91:49658->18.204.248.223:443 (ESTABLISHED)
+Slack      743      501   77u  IPv4 0x8a8c8d474f5ea0a7      0t0      TCP 10.1.10.91:49661->18.204.248.223:443 (ESTABLISHED)
+Slack      743      501   78u  IPv4 0x8a8c8d474f6f8427      0t0      TCP 10.1.10.91:49684->18.204.248.223:443 (ESTABLISHED)
+Slack      743      501   79u  IPv4 0x8a8c8d474fb780a7      0t0      TCP 10.1.10.91:54046->151.101.248.106:443 (ESTABLISHED)
+Slack      743      501   80u  IPv4 0x8a8c8d473967a427      0t0      TCP 10.1.10.91:54047->54.239.152.65:443 (ESTABLISHED)
+Slack      743      501   82u  IPv4 0x8a8c8d474f5e9727      0t0      TCP 10.1.10.91:54060->54.239.152.65:443 (ESTABLISHED)
+SystemUIS  745      501   12u  IPv4 0x8a8c8d474961266f      0t0      UDP *:*
+SystemUIS  745      501   13u  IPv4 0x8a8c8d47496123b7      0t0      UDP *:*
+SystemUIS  745      501   14u  IPv4 0x8a8c8d4749613c2f      0t0      UDP *:*
+SystemUIS  745      501   15u  IPv4 0x8a8c8d4749613ee7      0t0      UDP *:*
+SystemUIS  745      501   18u  IPv4 0x8a8c8d473e8ee887      0t0      UDP *:*
+CiscoVide  879      501   15u  IPv4 0x8a8c8d474e8b9727      0t0      TCP 127.0.0.1:9015 (LISTEN)
+CiscoVide  879      501   19u  IPv4 0x8a8c8d474e8b8da7      0t0      TCP 127.0.0.1:9005 (LISTEN)
+ruby       916      501   10u  IPv4 0x8a8c8d474e8baa27      0t0      TCP 127.0.0.1:31743 (LISTEN)
+ruby       916      501   11u  IPv4 0x8a8c8d474fb3d427      0t0      TCP 127.0.0.1:31743->127.0.0.1:49425 (ESTABLISHED)
+ruby       916      501   12u  IPv4 0x8a8c8d474ac88a27      0t0      TCP 127.0.0.1:49552->127.0.0.1:31749 (CLOSE_WAIT)
+ruby       916      501   62u  IPv4 0x8a8c8d474ec2fa27      0t0      TCP 127.0.0.1:31742 (LISTEN)
+nwjs\x20H  947      501   29u  IPv4 0x8a8c8d474fb3fa27      0t0      TCP 127.0.0.1:49425->127.0.0.1:31743 (ESTABLISHED)
+nwjs\x20H  947      501   30u  IPv4 0x8a8c8d474fb76427      0t0      TCP 127.0.0.1:49433->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   31u  IPv4 0x8a8c8d474fb78a27      0t0      TCP 127.0.0.1:49434->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   32u  IPv4 0x8a8c8d474fe750a7      0t0      TCP 127.0.0.1:49435->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   33u  IPv4 0x8a8c8d474fe73427      0t0      TCP 127.0.0.1:49436->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   34u  IPv4 0x8a8c8d474fe77727      0t0      TCP 127.0.0.1:49437->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   35u  IPv4 0x8a8c8d474fe76da7      0t0      TCP 127.0.0.1:49438->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   36u  IPv4 0x8a8c8d474fe78a27      0t0      TCP 127.0.0.1:49439->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   37u  IPv4 0x8a8c8d474fe79427      0t0      TCP 127.0.0.1:49443->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   38u  IPv4 0x8a8c8d474fe7f427      0t0      TCP 127.0.0.1:49447->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   39u  IPv4 0x8a8c8d474e4e2a27      0t0      TCP 127.0.0.1:49530->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   40u  IPv4 0x8a8c8d474efce727      0t0      TCP 127.0.0.1:49534->127.0.0.1:31742 (CLOSED)
+nwjs\x20H  947      501   41u  IPv4 0x8a8c8d474d61ea27      0t0      TCP 127.0.0.1:49623->127.0.0.1:31742 (CLOSED)
+firefox   1596      501   17u  IPv4 0x8a8c8d474fb76da7      0t0      TCP 10.1.10.91:54058->54.230.195.73:443 (ESTABLISHED)
+firefox   1596      501   18u  IPv4 0x8a8c8d474ec2d427      0t0      TCP 10.1.10.91:54059->54.192.194.123:443 (ESTABLISHED)
+firefox   1596      501  129u  IPv4 0x8a8c8d474f5eaa27      0t0      TCP 10.1.10.91:52656->205.128.94.75:443 (ESTABLISHED)
+firefox   1596      501  148u  IPv4 0x8a8c8d4735ed0da7      0t0      TCP 10.1.10.91:52636->18.204.234.247:443 (ESTABLISHED)
+firefox   1596      501  162u  IPv4 0x8a8c8d4735ed0427      0t0      TCP 10.1.10.91:52637->34.194.85.241:443 (ESTABLISHED)
+VBoxSVC   1660      501    9u  IPv4 0x8a8c8d473341d927      0t0      UDP *:*
+VBoxHeadl 1680      501    9u  IPv4 0x8a8c8d473341d927      0t0      UDP *:*
+VBoxHeadl 1680      501   17u  IPv4 0x8a8c8d4750ca4da7      0t0      TCP 127.0.0.1:53126 (LISTEN)
+VBoxNetDH 1683      501    9u  IPv4 0x8a8c8d473341d927      0t0      UDP *:*
+com.docke 6708      501    5u  IPv4 0x8a8c8d473ea67927      0t0      UDP 127.0.0.1:50353
+com.docke 6710      501   19u  IPv4 0x8a8c8d47494eb8d7      0t0      UDP *:53471
+com.docke 6710      501   20u  IPv4 0x8a8c8d47494eb367      0t0      UDP *:59761
